@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="bcr">Sudoku defining rule</string>
+    <string-array name="ar"></string-array>
+</resources>
